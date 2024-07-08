@@ -38,8 +38,10 @@
 
 ###
 
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaniiMS506&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="200" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaniiMS506&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="180" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=DaniiMS506&locale=es&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaniiMS506&radius=16&theme=react&area=true&order=5&hide_border=true" height="285" alt="activity-graph graph"  />
 </div>
 
 
