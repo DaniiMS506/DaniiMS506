@@ -38,9 +38,7 @@
 
 ###
 
-<div align="center">
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/your-project-id)](https://www.codacy.com/manual/DaniiMS506/your-project)
-  
+<div align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaniiMS506&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
